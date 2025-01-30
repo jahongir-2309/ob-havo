@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #fff;
+    text-align: center;
+    margin-top: 300px;
+    padding: 0;
+    background-image: url("./pexels-pixabay-355465.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .qidirish {
+    margin: 20px;
+  }
+  
+  .qidirish input {
+    padding: 10px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .qidirish button {
+    padding: 10px 20px;
+    border: none;
+    background: #38bdf8;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .container {
+    margin: 20px auto;
+    font-size: 30px;
+  }
+
+
+
+
